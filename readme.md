@@ -1,6 +1,6 @@
 ## Greetings 🖐️
 
-My name is Paulo and I'm an IT student at FATEC Jundiaí, Brazil. I'm also a former food engineering with R&D and consulting experience, but my interest in technology and programming led me to pursue a new path for my career.
+My name is Paulo and I'm an IT student at FATEC Jundiaí, Brazil. I'm also a former food engineer with R&D and consulting experience, but my interest in technology and programming led me to pursue a new path for my career.
 I'm currently studying web development, machine learning, improving my mathematics skills and searching for an internship opportunity!
 
 
